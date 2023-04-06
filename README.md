@@ -1,6 +1,6 @@
 # Perceptual Simultaneity Task 
 
-An open source script to behaviorally assess simultaneity judgments
+An open source script to behaviorally assess visotemporal perception
 
 ## Description
 
