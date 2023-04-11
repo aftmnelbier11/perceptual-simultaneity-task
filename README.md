@@ -59,7 +59,7 @@ Afton Nelson, M.Sc.
 
 ## Acknowledgments
 
-A special thanks to Carola Bloch and Dr. Irene Sophia Plank for their roles in troubleshooting the PST. 
+A special thanks to Carola Bloch and [Dr. Irene Sophia Plank](https://github.com/IreneSophia) for their roles in troubleshooting the PST. 
 
 ## References
 Falter, C. M., Elliott, M. A., & Bailey, A. J. (2012). Enhanced visual temporal resolution in autism spectrum disorders. PLoS One, 7(3), e32774.
