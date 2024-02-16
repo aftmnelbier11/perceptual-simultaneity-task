@@ -46,7 +46,7 @@ else:
 
 # Write session info in the dictionary 'ExpInfo'
 expName = 'Perceptual Simultaneity Task'
-expName2 = 'PIPS'  # abbreviation of full experiment name for file label - full exp name within file
+expName2 = 'INSERT-PROJ-NAME'  # abbreviation of full experiment name for file label - full exp name within file
 psychopyVersion = '2020.2.5'
 sessionDate = data.getDateStr()  # gives a timestamp
 
@@ -61,7 +61,7 @@ fileName = thisDir + os.sep + u'data/%s_%s_%s_%s' % (expName2, subject[0], subje
 
 # Define the expHandler
 thisExp = data.ExperimentHandler(name=expName, version=psychopyVersion,
-                                 originPath='C:/Users/Admin/Desktop/Afton/NON_new/',
+                                 originPath='/PATH/TO/OUTPUT/DIR',
                                  savePickle=False, saveWideText=True,
                                  dataFileName=fileName)
 
